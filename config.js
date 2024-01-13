@@ -18,9 +18,9 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Bom dia!',
-	greetingAfternoon: 'Boa tarde,',
-	greetingEvening: 'Boa noite,',
-	greetingNight: 'Vai dormir',
+	greetingAfternoon: 'Boa tarde!,',
+	greetingEvening: 'Boa noite!,',
+	greetingNight: 'Vá dormir!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'MF Doom',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL?si=zKAwfPOBTfCulbwR3_zY9g',
 				},
 				{
 					name: 'Yung lixo',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs?si=kmx4omp0QXCloKm0JWznCg',
 				},
 				{
-					name: 'Oldies But Goldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Kendrick Lamar',
+					link: 'https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg?si=b60c9bb82a9b454d',
 				},
 				{
-					name: 'Random',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Discover',
+					link: 'https://open.spotify.com/playlist/37i9dQZEVXcQmroA7bFdke?si=64c5e835cb4142e8',
 				},
 			],
 		},
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Whatsapp',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
 					name: 'Trello',
